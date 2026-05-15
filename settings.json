@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "calmsmp-0sbI.aternos.me",
-    "port": 18055,
+    "ip": "knightx.aternos.me",
+    "port": 12715,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -32,8 +32,8 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to gamerzs9!",
-        "Want best smp ? dsc.gg/mooncraftsmp"
+        "Subscribe to xpert!",
+        "Want best smp ? dsc.gg/xpert"
       ]
     },
     "chat-log": true,
