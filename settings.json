@@ -8,8 +8,8 @@
   "server": {
     "ip": "knightx.aternos.me",
     "port": 12715,
-    "version": "1.20.1",
-    "try-creative": false
+    "version": "26.1.2",
+    "try-creative": true
   },
   "position": {
     "enabled": true,
