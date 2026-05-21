@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "knightx.aternos.me",
-    "port": 12715,
+    "ip": "bappa.aternos.me",
+    "port": 43683,
     "version": "1.21.1",
     "try-creative": true
   },
